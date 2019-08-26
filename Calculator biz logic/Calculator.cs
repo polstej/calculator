@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace test_calculator
+
+namespace Calculator_biz_logic
 {
     public class Calculator
     {
